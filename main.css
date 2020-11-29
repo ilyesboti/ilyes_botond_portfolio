@@ -1,0 +1,86 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #F5DCB4;
+}
+
+h1{
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	color:#b5183c;
+	font-size: 69px;
+	font-family: Big Shoulders Stencil Text;
+	margin-bottom: 5px;
+}
+h2{
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: black;
+	font-size: 42px;
+	font-family: Big Shoulders Stencil Text;
+	margin-top:5px;
+}
+nav{
+	background: black;
+	padding-left: 20px;
+}
+nav a{
+	color:white;
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px;
+	font-family:Arial;
+	font-size: 18px;
+
+}
+nav a:hover{
+	background:#F5DCB4 ;
+	color: black;
+}
+.aktiv{
+	background: #b5183c;
+}
+
+section{
+	padding:30px;
+	width: 400px;
+	float: left;
+	text-align: justify;
+	
+}
+#fokep{
+	height:390px;
+	padding-left: 80px;
+	
+}
+#masodikkep
+{
+	height: 390px;
+	padding-left: 80px;
+}
+h3{
+	text-align: center;
+	font-size: 32px;
+	font-family: Big Shoulders Stencil Text;
+}
+
+#munka{
+	text-align: center;
+	font-size: 16px;
+	padding:20px;
+}
+a #linkek{
+	text-decoration: bold;
+}
+.munkakepek
+{
+	max-width: 400px;
+	padding-left: 30px;
+}
+#videos{
+	text-align: center;
+	padding-left: 100px;
+	padding-right: 70px;
+}
